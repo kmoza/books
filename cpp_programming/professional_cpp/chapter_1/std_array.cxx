@@ -4,13 +4,13 @@ using namespace std;
 
 int main()
 {
-	array<int, 3> arr = {9,8,7};
-	cout << "Array size = " << arr.size() << endl;
-	for(auto i : arr)
-	{
-		cout << i << endl;
-		cout << *iter << endl;
-	}
+    array<int, 3> arr = {9,8,7};
+    cout << "Array size = " << arr.size() << endl;
+    for(auto i : arr)
+    {
+        cout << i << endl;
+        cout << *iter << endl;
+    }
 
-	return 0;
+    return 0;
 }
