@@ -13,9 +13,9 @@ int main()
     anEmployee.salary = 10000;
 
     cout << "Employee:" << anEmployee.firstInitial <<
-    					   anEmployee.middleInitial <<
-    					   anEmployee.lastInitial <<
-    					   anEmployee.employeeNumber <<
-    					   anEmployee.salary << endl;
+                           anEmployee.middleInitial <<
+                           anEmployee.lastInitial <<
+                           anEmployee.employeeNumber <<
+                           anEmployee.salary << endl;
     return 0;
 }
