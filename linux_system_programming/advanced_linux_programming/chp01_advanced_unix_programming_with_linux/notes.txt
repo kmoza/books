@@ -1,0 +1,9 @@
+Chapter 1
+- some intro to emacs and its exceptional features
+- much of emacs in written in LISP
+- The -c option tells g++ to compile the program to an object file
+- The -I option is used to tell GCC where to search for header files.
+- GCC has several different levels of optimization; the second level is appropriate for most programs.
+- You should always use g++ to link a program that contains C++ code, even if it also contains C code.
+- The compiler automatically adds the lib prefix and the .a suffix. (compiling with libs)
+- As with header files, the linker looks for libraries in some standard places, including the /lib and /usr/lib directories that contain the standard system libraries.
