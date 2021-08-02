@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 #include "reciprocal.hpp"
 
 int main(int argc, char **argv)
